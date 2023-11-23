@@ -783,7 +783,7 @@ exports.CustomSpellList = [
         Classes: 'Wizard, Artificer [TK], SRD'
     },
     {
-        Name: 'Floating Disk',
+        Name: 'Tensor\'s Floating Disk',
         Level: 1,
         School: 'Conjuration',
         IsRitual: true,
@@ -919,7 +919,7 @@ exports.CustomSpellList = [
         Classes: 'Bard, Paladin, SRD'
     },
     {
-        Name: 'Hideous Laughter',
+        Name: 'Tasha\'s Hideous Laughter',
         Level: 1,
         School: 'Enchantment',
         IsRitual: false,
@@ -1242,7 +1242,7 @@ exports.CustomSpellList = [
         Classes: 'Bard, Warlock, Wizard, Artificer [TK], SRD'
     },
     {
-        Name: 'Acid Arrow',
+        Name: 'Melf\'s Acid Arrow',
         Level: 2,
         School: 'Evocation',
         IsRitual: false,
@@ -1786,7 +1786,7 @@ exports.CustomSpellList = [
         Classes: 'Bard, Cleric, Druid, Paladin, Ranger, Wizard, Artificer [TK], SRD'
     },
     {
-        Name: 'Magic Aura',
+        Name: 'Nystul\'s Magic Aura',
         Level: 2,
         School: 'Illusion',
         IsRitual: false,
@@ -2772,7 +2772,7 @@ exports.CustomSpellList = [
         Classes: 'Bard, Sorcerer, Wizard, SRD'
     },
     {
-        Name: 'Tiny Hut',
+        Name: 'Leomund\'s Tiny Hut',
         Level: 3,
         School: 'Evocation',
         IsRitual: true,
@@ -2908,7 +2908,7 @@ exports.CustomSpellList = [
         Classes: 'Cleric, Paladin, Sorcerer, Warlock, Wizard, Artificer [TK], SRD'
     },
     {
-        Name: 'Black Tentacles',
+        Name: 'Evard\'s Black Tentacles',
         Level: 4,
         School: 'Conjuration',
         IsRitual: false,
@@ -3299,7 +3299,7 @@ exports.CustomSpellList = [
         Classes: 'Bard, Druid, Sorcerer, Wizard, SRD'
     },
     {
-        Name: 'Private Sanctum',
+        Name: 'Mordenkainen\'s Private Sanctum',
         Level: 4,
         School: 'Abjuration',
         IsRitual: false,
@@ -3316,7 +3316,7 @@ exports.CustomSpellList = [
         Classes: 'Wizard, Artificer, SRD'
     },
     {
-        Name: 'Resilient Sphere',
+        Name: 'Otiluke\'s Resilient Sphere',
         Level: 4,
         School: 'Evocation',
         IsRitual: false,
@@ -3333,7 +3333,7 @@ exports.CustomSpellList = [
         Classes: 'Wizard, Artificer, SRD'
     },
     {
-        Name: 'Secret Chest',
+        Name: 'Leomund\'s Secret Chest',
         Level: 4,
         School: 'Conjuration',
         IsRitual: false,
@@ -3435,7 +3435,7 @@ exports.CustomSpellList = [
         Classes: 'Druid, Artificer [TK], SRD'
     },
     {
-        Name: 'Arcane Hand',
+        Name: 'Bigby\'s Hand',
         Level: 5,
         School: 'Evocation',
         IsRitual: false,
@@ -3945,7 +3945,7 @@ exports.CustomSpellList = [
         Classes: 'Sorcerer, Wizard, Artificer [TK], SRD'
     },
     {
-        Name: 'Telepathic Bond',
+        Name: 'Rary\'s Telepathic Bond',
         Level: 5,
         School: 'Divination',
         IsRitual: true,
@@ -4217,7 +4217,7 @@ exports.CustomSpellList = [
         Classes: 'Cleric, SRD'
     },
     {
-        Name: 'Freezing Sphere',
+        Name: 'Otiluke\'s Freezing Sphere',
         Level: 6,
         School: 'Evocation',
         IsRitual: false,
@@ -4319,7 +4319,7 @@ exports.CustomSpellList = [
         Classes: 'Cleric, Druid, SRD'
     },
     {
-        Name: 'Instant Summons',
+        Name: 'Drawmij\'s Instant Summons',
         Level: 6,
         School: 'Conjuration',
         IsRitual: true,
@@ -4336,7 +4336,7 @@ exports.CustomSpellList = [
         Classes: 'Wizard, SRD'
     },
     {
-        Name: 'Irresistible Dance',
+        Name: 'Otto\'s Irresistible Dance',
         Level: 6,
         School: 'Enchantment',
         IsRitual: false,
@@ -4557,7 +4557,7 @@ exports.CustomSpellList = [
         Classes: 'Cleric, Artificer [TK], SRD'
     },
     {
-        Name: 'Arcane Sword',
+        Name: 'Mordenkainen\'s Sword',
         Level: 7,
         School: 'Evocation',
         IsRitual: false,
@@ -4693,7 +4693,7 @@ exports.CustomSpellList = [
         Classes: 'Bard, Warlock, Wizard, Artificer [TK], SRD'
     },
     {
-        Name: 'Magnificent Mansion',
+        Name: 'Mordenkainen\'s Magnificent Mansion',
         Level: 7,
         School: 'Conjuration',
         IsRitual: false,
